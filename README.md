@@ -6,7 +6,7 @@
   <a><img src="https://komarev.com/ghpvc/?username=MustafaYounis27"/></a>
   </p>
 
-- 📫 How to reach me **mustafamahmoudyounis@gmail.com**
+- 📫 You can reach me on **mustafamahmoudyounis@gmail.com**
 
 - 📄 Know about my experiences [**MyResume**](https://github.com/MustafaYounis27/MustafaYounis27/files/10428254/Mustafa.Mahmoud.pdf)
 
