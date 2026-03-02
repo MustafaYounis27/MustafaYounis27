@@ -5,15 +5,15 @@
   <a><img src="https://komarev.com/ghpvc/?username=MustafaYounis27"/></a>
   </p>
 
-- 📫 You can reach me on **mustafamahmoudyounis@gmail.com**
+- 📫 You can reach me on [**My Portfolio**](https://mustafa-younis-portfolio.netlify.app/)
 
-- 📄 Know about my experiences [**MyResume**](https://github.com/user-attachments/files/16824877/Mustafa.Mahmoud.-.Flutter.Developer.pdf)
+- 📄 Know about my experiences [**My Resume**](https://github.com/user-attachments/files/25681691/Mustafa.Younis.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     
-<a href="https://www.linkedin.com/in/mustafa-mahmoud-younis-8b9484198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-mahmoud-younis-8b9484198" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mustafa-mahmoud-younis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-mahmoud-younis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
